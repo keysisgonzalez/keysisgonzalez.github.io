@@ -220,6 +220,8 @@ input, select, textarea {
 
 	h3 {
 		font-size: 1.1em;
+		margin-bottom: 0px;
+		color: rgb(247, 128, 203);
 	}
 
 	h4 {
